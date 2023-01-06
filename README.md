@@ -6,3 +6,6 @@ Download the repo and launch the following command on your terminal :
 ```bash
     python counting.py
 ```
+# Author
+
+Sofia Boumahrat
